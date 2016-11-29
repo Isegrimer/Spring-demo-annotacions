@@ -23,5 +23,4 @@ public class RamdomFortuneService implements FortuneService {
 		
 		return data[index];
 	}
-
 }
