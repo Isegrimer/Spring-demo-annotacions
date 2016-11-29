@@ -18,7 +18,7 @@ public class JavaConfigDemoApp {
 		//get method to get daily Fortune
 		System.out.println(theCoach.getDailyFortune());
 		
-		//close the context
+		//close the context.
 		context.close();
 	}
 
